@@ -1,4 +1,13 @@
-## Hi there 👋
+# Dingus
+## Learning Graphics Programming
+
+very beginner
+
+## Intermediate
+Godot
+
+## Basic
+C++
 
 <!--
 **Dingus-Among-Us/Dingus-Among-Us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
